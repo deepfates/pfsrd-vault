@@ -1,0 +1,21 @@
+name: [[Caustic Slur]]
+type: General
+description: You know exactly how to insult your favored enemies in order to make them lose their heads.
+prerequisites: Bluff 1 rank, favored enemy class feature, gnome.
+prerequisite_feats: 0
+benefit: As a standard action, you can make a Bluff check against one sort of favored enemy. Any creature of that type within 60 feet of you must make a Will saving throw or become angered. If an affected creature attacks you, it's treated as if it were using [[Power Attack]] (taking a penalty on attack rolls but gaining a bonus on damage rolls). If the creature already has the [[power]] attack feat, the attack penalty increases by 1 and the damage bonus increases by 2. These modifiers end when combat ends. This ability does not work on creatures that cannot understand you, though sometimes a simple gesture is sufficient for an intelligent opponent to catch your gist regardless of any language barrier.
+normal: 0
+special: 0
+teamwork: 0
+critical: 0
+grit: 0
+style: 0
+performance: 0
+racial: 1
+companion_familiar: 0
+race_name: Gnome
+note: 0
+goal: 0
+completion_benefit: 0
+multiples: 0
+suggested_traits: 0

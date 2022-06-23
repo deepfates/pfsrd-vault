@@ -1,0 +1,34 @@
+name: [[Enthrall]]
+school: enchantment
+subschool: charm
+descriptor: language-dependent, mind-affecting, sonic
+spell_level: [[bard]] 2, [[cleric]] 2
+casting_time: 1 round
+components: V, S
+costly_components: 0
+range: medium (100 ft. + 10 ft./level)
+area: 0
+effect: 0
+targets: any number of creatures
+duration: 1 hour or less
+dismissible: 0
+shapeable: 0
+saving_throw: Will negates; see text
+spell_resistence: yes
+description: If you have the attention of a group of creatures, you can use this spell to hold them enthralled. To cast the spell, you must speak or sing without interruption for 1 full round. Thereafter, those affected give you their undivided attention, ignoring their surroundings. They are considered to have an attitude of friendly while under the effect of the spell. Any potentially affected creature of a race or religion unfriendly to yours gets a +4 bonus on the saving throw. A target with 4 or more HD or with a Wisdom score of 16 or higher remains aware of its surroundings and has an attitude of indifferent. It gains a new saving throw if it witnesses actions that it opposes. The effect lasts as long as you speak or sing, to a maximum of 1 hour. Those enthralled by your words take no action while you speak or sing and for 1d3 rounds thereafter while they discuss the topic or performance. Those entering the area during the performance must also successfully save or become enthralled. The speech ends (but the 1d3-round delay still applies) if you lose concentration or do anything other than speak or sing. If those not enthralled have unfriendly or hostile attitudes toward you, they can collectively make a Charisma check to try to end the spell by jeering and heckling. For this check, use the Charisma bonus of the creature with the highest Charisma in the group; others may make Charisma checks to assist. The heckling ends the spell if this check result beats your Charisma check result. Only one such challenge is allowed per use of the spell. If any member of the audience is attacked or subjected to some other overtly hostile act, the spell ends and the previously enthralled members become immediately unfriendly toward you. Each creature with 4 or more HD or with a Wisdom score of 16 or higher becomes hostile.
+description_formated: <p>If you have the attention of a group of creatures, you can use this spell to hold them enthralled. To cast the spell, you must speak or sing without interruption for 1 full round. Thereafter, those affected give you their undivided attention, ignoring their surroundings. They are considered to have an attitude of friendly while under the effect of the spell. Any potentially affected creature of a race or religion unfriendly to yours gets a +4 bonus on the saving throw. A target with 4 or more HD or with a Wisdom score of 16 or higher remains aware of its surroundings and has an attitude of indifferent. It gains a new saving throw if it witnesses actions that it opposes. The effect lasts as long as you speak or sing, to a maximum of 1 hour. Those enthralled by your words take no action while you speak or sing and for 1d3 rounds thereafter while they discuss the topic or performance. Those entering the area during the performance must also successfully save or become enthralled. The speech ends (but the 1d3-round delay still applies) if you lose concentration or do anything other than speak or sing. If those not enthralled have unfriendly or hostile attitudes toward you, they can collectively make a Charisma check to try to end the spell by jeering and heckling. For this check, use the Charisma bonus of the creature with the highest Charisma in the group; others may make Charisma checks to assist. The heckling ends the spell if this check result beats your Charisma check result. Only one such challenge is allowed per use of the spell. If any member of the audience is attacked or subjected to some other overtly hostile act, the spell ends and the previously enthralled members become immediately unfriendly toward you. Each creature with 4 or more HD or with a Wisdom score of 16 or higher becomes hostile.</p>
+source: PFRPG Core
+full_text: <link rel="stylesheet"href="PF.css"><div class="heading"><p class="alignleft">[[Enthrall]]</p><div style="clear: both;"></div></div><div><h5><b>School </b>enchantment (charm) [language-dependent, mind-affecting, sonic]; <b>Level </b>[[bard]] 2, [[cleric]] 2</h5></div><hr/><div><h5><b>CASTING</b></h5></div><hr/><div><h5><b>Casting Time </b>1 round</h5><h5><b>Components </b>V, S</h5></div><hr/><div><h5><b>EFFECT</b></h5></div><hr/><div><h5><b>Range </b>medium (100 ft. + 10 ft./level)</h5><h5><b>Targets </b>any number of creatures</h5><h5><b>Duration </b>1 hour or less</h5><h5><b>Saving Throw </b>Will negates; see text; <b>Spell [[Resistance]] </b>yes</h5></div><hr/><div><h5><b>DESCRIPTION</b></h5></div><hr/><div><h4><p>If you have the attention of a group of creatures, you can use this spell to hold them enthralled. To cast the spell, you must speak or sing without interruption for 1 full round. Thereafter, those affected give you their undivided attention, ignoring their surroundings. They are considered to have an attitude of friendly while under the effect of the spell. Any potentially affected creature of a race or religion unfriendly to yours gets a +4 bonus on the saving throw. A target with 4 or more HD or with a Wisdom score of 16 or higher remains aware of its surroundings and has an attitude of indifferent. It gains a new saving throw if it witnesses actions that it opposes. The effect lasts as long as you speak or sing, to a maximum of 1 hour. Those enthralled by your words take no action while you speak or sing and for 1d3 rounds thereafter while they discuss the topic or performance. Those entering the area during the performance must also successfully save or become enthralled. The speech ends (but the 1d3-round delay still applies) if you lose concentration or do anything other than speak or sing. If those not enthralled have unfriendly or hostile attitudes toward you, they can collectively make a Charisma check to try to end the spell by jeering and heckling. For this check, use the Charisma bonus of the creature with the highest Charisma in the group; others may make Charisma checks to assist. The heckling ends the spell if this check result beats your Charisma check result. Only one such challenge is allowed per use of the spell. If any member of the audience is attacked or subjected to some other overtly hostile act, the spell ends and the previously enthralled members become immediately unfriendly toward you. Each creature with 4 or more HD or with a Wisdom score of 16 or higher becomes hostile.</p></h4></div>
+verbal: 1
+somatic: 1
+material: 0
+[[focus]]: 0
+divine_[[focus]]: 0
+sor: 0
+wiz: 0
+[[cleric]]: 2.0
+[[druid]]: 0
+[[ranger]]: 0
+[[bard]]: 2.0
+[[paladin]]: 0
+deity: 0

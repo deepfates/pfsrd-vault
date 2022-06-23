@@ -1,0 +1,21 @@
+name: [[Deft Hands]]
+type: Mythic
+description: Your hands are astonishingly nimble.
+prerequisites: [[Deft Hands]].
+prerequisite_feats: [[Deft Hands]]
+benefit: The bonus on Disable Device and Sleight of Hand skill checks from [[Deft Hands]] increases by 2. In addition, you can expend one use of mythic [[power]] to treat a Disable Device or Sleight of Hand check as if you had rolled a natural 20. You must decide to use this ability before making the roll.
+normal: 0
+special: 0
+teamwork: 0
+critical: 0
+grit: 0
+style: 0
+performance: 0
+racial: 0
+companion_familiar: 0
+race_name: 0
+note: 0
+goal: 0
+completion_benefit: 0
+multiples: 0
+suggested_traits: 0

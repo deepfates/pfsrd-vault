@@ -1,0 +1,56 @@
+Name: [[gunslinger]]
+[[Acrobatic]]s: X
+Appraise: 0
+Bluff: X
+Climb: X
+Craft:: X
+Craft:.1: X
+Diplomacy: 0
+Disable Device: 0
+Disguise: 0
+Escape Artist: 0
+[[Fly]]: 0
+Handle [[Animal]]: X
+[[Heal]]: X
+Intimidate: X
+Kn. Arcana: 0
+Kn. Dungeoneering: 0
+Kn. Engineering: X
+Kn. Geography: 0
+Kn. History: 0
+Kn. Local: X
+Kn. Nature: 0
+Kn. Nobility: 0
+Kn. Planes: 0
+Kn. Religion: 0
+Linguistics: 0
+Perception: X
+Perform:: 0
+Perform:.1: 0
+Prof:: 0
+Prof:.1: 0
+Ride: X
+Sense Motive: 0
+Sleight of Hand: X
+Spellcraft: 0
+Stealth: 0
+Survival: X
+Swim: X
+Use Magic Device: 0
+(Custom Skill): 0
+(Custom Skill).1: 0
+Artistry:: 0
+Lore:: 0
+Name: 0
+C. [[Acrobatic]]s: 0
+C. [[Athletic]]s: X
+C. Finesse: 0
+C. Influence: 0
+C. Nature: 0
+C. Perception: 0
+C. Performance: 0
+C. Religion: 0
+C. Society: 0
+C. Spellcraft: 0
+C. Stealth: 0
+C. Survival: X
